@@ -1,7 +1,7 @@
 {
   "name": "sparking-chat",
   "version": "1.0.0",
-  "description": "",
+  "description": "My first chat application to learn socket.io and explore more into backend part thank you lol",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
